@@ -1,0 +1,18 @@
+.titulo-academia{
+    color: aliceblue;
+    position: relative;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.iniciar-sesion{
+    margin-top: 1em;
+}
+
+.carrito{
+    color: white;
+    margin-right: 5px;
+}
+
+.logo-persona{
+    color: white;
+}
